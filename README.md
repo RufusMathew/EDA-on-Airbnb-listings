@@ -25,9 +25,9 @@ This project involves Exploratory Data Analysis (EDA) on the Airbnb Listings dat
 
 ### 3. Data Cleaning
 
-- Type Casting**: Ensured appropriate data types for each column.
-- Handling Missing Values**: Identified and addressed missing values through imputation or removal.
-- Dealing with Duplicates**: Removed duplicate entries to maintain data integrity.
+- Type Casting: Ensured appropriate data types for each column.
+- Handling Missing Values: Identified and addressed missing values through imputation or removal.
+- Dealing with Duplicates: Removed duplicate entries to maintain data integrity.
 - Zero and Near-Zero Variance**: Eliminated features with minimal variability as they contribute little to the analysis.
 
 ### 4. Exploratory Data Analysis (EDA)
